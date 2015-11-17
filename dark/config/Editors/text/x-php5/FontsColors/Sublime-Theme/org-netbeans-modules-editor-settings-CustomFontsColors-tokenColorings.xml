@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor default="constant" name="constant">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor default="string" name="string"/>
+    <fontcolor name="mod-class">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-unused" waveUnderlined="ff999999"/>
+    <fontcolor default="operator" foreColor="white" name="operator"/>
+    <fontcolor default="number" foreColor="ffae81ff" name="number"/>
+    <fontcolor foreColor="lightGray" name="phpopenclose">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="mod-deprecated" strikeThrough="black"/>
+    <fontcolor default="method" name="mod-custom1"/>
+    <fontcolor default="comment" name="mod-annotation-type">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor bgColor="26ffff00" default="inferred" name="inferred"/>
+    <fontcolor default="comment" name="phpdockeyword">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="keyword" foreColor="fff92672" name="keyword"/>
+    <fontcolor default="identifier" foreColor="ffa6e22e" name="identifier"/>
+    <fontcolor default="field" foreColor="lightGray" name="mod-field"/>
+    <fontcolor default="comment" foreColor="ff9999ff" name="htmltag">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="ffa6e22e" name="mod-method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor default="separator" foreColor="white" name="separator"/>
+    <fontcolor foreColor="lightGray" name="heredocdelimiter"/>
+    <fontcolor bgColor="26ff0000" default="uncovered" foreColor="yellow" name="uncovered"/>
+    <fontcolor name="mod-static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor bgColor="266fff6f" default="covered" name="covered"/>
+    <fontcolor foreColor="fff8f8f2" name="variable"/>
+    <fontcolor default="comment" foreColor="ff8f908a" name="comment"/>
+    <fontcolor bgColor="26ffafaf" default="partial" name="partial"/>
+    <fontcolor default="comment" name="commentline"/>
+</fontscolors>

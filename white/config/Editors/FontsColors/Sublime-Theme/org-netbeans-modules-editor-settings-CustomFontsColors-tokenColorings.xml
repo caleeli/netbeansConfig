@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE fontscolors PUBLIC "-//NetBeans//DTD Editor Fonts and Colors settings 1.1//EN" "http://www.netbeans.org/dtds/EditorFontsColors-1_1.dtd">
+<fontscolors>
+    <fontcolor bgColor="ff3b3a0c" name="mark-occurrences"/>
+    <fontcolor foreColor="ff007c00" name="markup-attribute"/>
+    <fontcolor name="private"/>
+    <fontcolor foreColor="ffe6db74" name="string"/>
+    <fontcolor bgColor="red" name="deprecated" strikeThrough="darkGray"/>
+    <fontcolor bgColor="red" foreColor="white" name="error"/>
+    <fontcolor name="interface"/>
+    <fontcolor foreColor="pink" name="entity-reference"/>
+    <fontcolor foreColor="ff66cc00" name="operator"/>
+    <fontcolor foreColor="ffad81ff" name="number"/>
+    <fontcolor bgColor="ff272822" foreColor="white" name="default">
+        <font name="Monospaced" size="13" style="plain"/>
+    </fontcolor>
+    <fontcolor name="protected"/>
+    <fontcolor name="public"/>
+    <fontcolor foreColor="fffd971f" name="method-parameter">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="warning" waveUnderlined="yellow"/>
+    <fontcolor foreColor="fff92673" name="keyword"/>
+    <fontcolor name="class">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="local-variable"/>
+    <fontcolor foreColor="white" name="identifier"/>
+    <fontcolor name="static">
+        <font style="italic"/>
+    </fontcolor>
+    <fontcolor name="method">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor name="constructor">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="orange" name="markup-element"/>
+    <fontcolor default="string" name="markup-attribute-value"/>
+    <fontcolor name="abstract"/>
+    <fontcolor foreColor="lightGray" name="separator"/>
+    <fontcolor name="enum"/>
+    <fontcolor name="url" underline="ff4e5d93"/>
+    <fontcolor foreColor="ff098618" name="field">
+        <font style="bold"/>
+    </fontcolor>
+    <fontcolor foreColor="yellow" name="char"/>
+    <fontcolor foreColor="ff75715e" name="comment"/>
+    <fontcolor foreColor="gray" name="unused" waveUnderlined="pink"/>
+    <fontcolor name="whitespace"/>
+</fontscolors>
